@@ -9,7 +9,7 @@
 A verified private support email should be added here before users are instructed to email sensitive details:
 
 ```text
-REPLACE_WITH_VERIFIED_SUPPORT_EMAIL
+lecturestudio.support@gmail.com
 ```
 
 ## Include in a problem report

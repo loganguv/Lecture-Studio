@@ -73,7 +73,7 @@ These downloads may involve services operated by GitHub, Astral, PyPI, Hugging F
 
 Lecture Studio currently does not include advertising, user accounts, or default-on analytics.
 
-Read the full [Privacy Policy](PRIVACY_POLICY_URL).
+Read the full [Privacy Policy](PRIVACY.md)
 
 ## Permissions
 

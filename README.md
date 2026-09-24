@@ -18,7 +18,7 @@ Lecture Studio is a private, local-first macOS app that turns lecture recordings
 - Several gigabytes of available storage
 - Internet access for initial setup, model downloads, and app updates
 
-Lecture Studio does not currently support Intel Macs.
+Lecture Studio does not support Intel Macs.
 
 ## Download and Install
 

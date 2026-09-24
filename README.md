@@ -97,3 +97,12 @@ Lecture Studio stores its library and private runtime under:
 
 ```text
 ~/Library/Application Support/Lecture Studio/
+
+## Important Links
+
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
+- [Support](SUPPORT.md)
+- [Security Policy](SECURITY.md)
+- [Open-Source Notices](OPEN_SOURCE_NOTICES.md)
+- [Lecture Studio License](LICENSE)

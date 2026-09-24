@@ -6,7 +6,6 @@
 - Search existing [GitHub issues](https://github.com/loganguv/Lecture-Studio/issues).
 - If the problem is not already reported, open a new issue without attaching private recordings or transcripts.
 
-A verified private support email should be added here before users are instructed to email sensitive details:
 
 ```text
 lecturestudio.support@gmail.com

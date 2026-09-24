@@ -3,12 +3,12 @@
     <channel>
         <title>Lecture Studio</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Thu, 24 Sep 2026 03:57:16 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Thu, 24 Sep 2026 15:24:06 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/loganguv/Lecture-Studio/releases/download/1.0.3/LectureStudio-1.0.3.zip" length="2569311" type="application/octet-stream" sparkle:edSignature="gbe6xJ7QGgkmUK8An11YhVrUlGsZ7M5j5cYJlqc2iYOA8YLkXJ12I629ttOVIgU380g+03j1KABNvXaUSVR/Cg=="/>
+            <enclosure url="https://github.com/loganguv/Lecture-Studio/releases/download/1.0.4/Lecture-Studio-1.0.4.zip" length="2604366" type="application/octet-stream" sparkle:edSignature="kPc7zhQ40XnsgyEOml5MKyWpJMu/y4WcFCRRT2z527xAUPmwrX/yIJSlGXQaXZ2vxkid8w8WnvhA6iiw71p1Aw=="/>
         </item>
     </channel>
 </rss>

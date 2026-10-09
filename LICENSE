@@ -3,21 +3,40 @@ Lecture Studio Proprietary License
 Copyright (c) 2026 Logan Guvenel. All rights reserved.
 
 The Lecture Studio application, its original source code, user interface,
-branding, documentation, and other original materials are proprietary to
-Logan Guvenel unless a file or component states otherwise.
+branding, name, documentation, and other original materials are proprietary
+to Logan Guvenel unless a file or component states otherwise. Source code
+that is publicly viewable is provided for reference only and is not licensed
+for reuse.
 
 You may download and use released copies of Lecture Studio for personal,
 non-commercial use in accordance with the accompanying Terms of Use.
 
+Paid features (Lecture Studio Plus) require a valid license key. License keys
+are for your own use on the number of devices stated at purchase, and may not
+be shared, resold, or transferred.
+
 You may not copy, modify, publish, distribute, sublicense, sell, rent, host,
-repackage, create derivative works from, or commercially exploit Lecture
-Studio or its original source code without prior written permission from
-Logan Guvenel.
+repackage, reverse engineer (except where applicable law allows it), create
+derivative works from, or commercially exploit Lecture Studio or its original
+source code without prior written permission from Logan Guvenel. You may not
+use the Lecture Studio name or branding without permission.
+
+This license ends automatically if you break its terms. On termination you
+must stop using Lecture Studio and delete your copies.
 
 This license does not restrict rights granted by the separate licenses of
 third-party open-source components used by Lecture Studio. Those components
 remain governed by their respective licenses. See OPEN_SOURCE_NOTICES.md.
 
+If you use the optional AI study features with your own OpenAI or Anthropic
+API key, that use is governed by the provider's own terms, and you are
+responsible for any charges.
+
 THE SOFTWARE IS PROVIDED "AS IS" TO THE MAXIMUM EXTENT PERMITTED BY LAW,
 WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LOGAN GUVENEL IS NOT LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR FOR LOST DATA,
+ARISING FROM USE OF THE SOFTWARE. TOTAL LIABILITY IS LIMITED TO THE AMOUNT YOU
+PAID FOR THE SOFTWARE IN THE PRIOR 12 MONTHS.

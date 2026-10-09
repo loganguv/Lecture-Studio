@@ -8,7 +8,7 @@
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/loganguv/Lecture-Studio/releases/download/v1.0.7/Lecture-Studio-1.0.7.zip" length="2813679" type="application/octet-stream" sparkle:edSignature="MxEv0V9l5xrmsi+1sRgvTt33wrkGe2x8h7Qm0vn7Tshl4zYj2Ifkipa7wMvEZVqKCPX2TWCojv/uZJH5rMFTBA=="/>
+            <enclosure url="https://github.com/loganguv/Lecture-Studio/releases/download/1.0.7/Lecture-Studio-1.0.7.zip" length="2813679" type="application/octet-stream" sparkle:edSignature="MxEv0V9l5xrmsi+1sRgvTt33wrkGe2x8h7Qm0vn7Tshl4zYj2Ifkipa7wMvEZVqKCPX2TWCojv/uZJH5rMFTBA=="/>
         </item>
     </channel>
 </rss>

@@ -1,55 +1,59 @@
 # Lecture Studio Terms of Use
 
-**Effective date: September 24, 2026**
+**Effective date: October 9, 2026**
 
-These Terms of Use govern your use of Lecture Studio. By using the application, you agree to these terms. If you do not agree, do not use Lecture Studio.
+These Terms of Use govern your use of Lecture Studio, including its free features and optional Lecture Studio+ upgrade. By using the application, you agree to these terms. If you do not agree, do not use Lecture Studio.
 
 ## 1. Personal-use license
 
-Subject to these terms, Logan Guvenel grants you a limited, revocable, non-exclusive, non-transferable license to use released copies of Lecture Studio for personal, non-commercial purposes. Lecture Studio and its original source code remain proprietary unless expressly stated otherwise.
+Subject to these terms, Logan Guvenel grants you a limited, non-exclusive, non-transferable license to use released copies of Lecture Studio for personal, non-commercial purposes. This license may be revoked for a material violation of these terms, subject to applicable law.
+
+Lecture Studio and its original source code remain proprietary unless expressly stated otherwise. Purchasing Lecture Studio+ unlocks features; it does not transfer ownership of the application or its source code.
+
+Third-party open-source components remain subject to their respective licenses. Nothing in these terms restricts rights those licenses grant you.
 
 ## 2. Recording consent and lawful use
 
-You are responsible for obtaining permission before recording a lecture, meeting, conversation, or other audio. Recording laws and school or workplace policies vary. You must not use Lecture Studio to violate law, policy, privacy, confidentiality, intellectual-property rights, or the rights of another person.
+You are responsible for obtaining any required permission before recording a lecture, meeting, conversation, or other audio. Recording laws and school or workplace policies vary.
 
-## 3. Transcription accuracy
+You must have the necessary rights or permission to import, attach, process, export, share, or send recordings, transcripts, notes, documents, images, and other content to an AI provider.
 
-Lecture Studio uses automatic speech recognition. Transcripts, timestamps, speaker interpretations, Highlights, summaries, and other generated material may be incomplete or incorrect. A “Needs review” label does not identify every possible error.
+You must not use Lecture Studio to violate law, policy, privacy, confidentiality, intellectual-property rights, or the rights of another person.
 
-Always compare important information with the original recording or another authoritative source. Do not rely on unreviewed output for legal, medical, emergency, accessibility-compliance, safety-critical, or similarly high-risk purposes.
+## 3. Transcription and AI accuracy
 
-## 4. Your data and backups
+Lecture Studio uses automatic speech recognition and optional third-party AI services. Transcripts, timestamps, summaries, key terms, flashcards, study questions, quizzes, quiz grades, and other generated material may be incomplete or incorrect. A “Needs review” label does not identify every possible transcription error.
 
-You are responsible for your recordings, transcripts, exports, and backups. Keep separate backups of important material. Deleting the application does not automatically delete data stored in `~/Library/Application Support/Lecture Studio/`.
+Multiple-choice and true/false quiz responses are scored against generated answer keys. Short-answer responses may be graded by AI. Generated questions, answer keys, and grading decisions may contain mistakes and are intended for personal study, not official academic assessment.
 
-## 5. Third-party services and software
+Always compare important information with the original recording, course materials, or another authoritative source. Do not rely on unreviewed output for legal, medical, emergency, accessibility-compliance, safety-critical, or similarly high-risk purposes.
 
-Lecture Studio relies on third-party open-source software and may connect to third-party services for setup packages, speech models, links, and updates. Those components and services are governed by their own terms, licenses, and privacy policies.
+Silence prompts are convenience features. They do not reliably determine whether someone is present or speaking, and they are not a recording or safety monitoring service.
 
-## 6. Updates and availability
+## 4. Your content, storage, and backups
 
-Features may change, be corrected, or be removed. Lecture Studio may not always be available, compatible, or error-free. There is no guarantee that every file format, recording, model, or macOS release will work.
+You retain any rights you hold in the content you use with Lecture Studio. Using the application does not transfer ownership of that content to Logan Guvenel.
 
-## 7. Prohibited conduct
+Recordings and transcripts are processed locally for transcription. Optional AI study features send selected content to your chosen provider as described below and in [PRIVACY.md](PRIVACY.md).
 
-You may not use Lecture Studio to distribute malware, violate another person's privacy, record unlawfully, bypass security protections, or infringe copyrights or other rights. You may not misrepresent yourself as the creator or official distributor of Lecture Studio.
+You are responsible for your recordings, transcripts, notes, attachments, study materials, exports, and backups. Keep separate backups of important material.
 
-## 8. Disclaimer of warranties
+Library backups do not include every item associated with the application. Audio is optional, and app preferences, API keys, Recently Deleted items, and recovery recordings are excluded. Transcript-only exports are not restorable library backups.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, LECTURE STUDIO IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AVAILABILITY, AND NON-INFRINGEMENT.
+Deleted lectures are normally recoverable through Recently Deleted for 30 days unless permanently deleted sooner. Do not treat Recently Deleted as a backup.
 
-Some jurisdictions do not permit certain warranty exclusions, so parts of this section may not apply to you.
+Deleting the application does not automatically delete data stored in:
 
-## 9. Limitation of liability
+```text
+~/Library/Application Support/Lecture Studio/
+```
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, LOGAN GUVENEL WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, RECORDINGS, TRANSCRIPTS, PROFITS, OR OPPORTUNITY, ARISING FROM OR RELATED TO LECTURE STUDIO.
+Credentials and preferences may also be stored separately by macOS. Review [SUPPORT.md](SUPPORT.md) before manually deleting or repairing app data.
 
-Nothing in these terms excludes liability that cannot legally be excluded.
+## 5. Optional AI services and provider charges
 
-## 10. Changes
+AI study generation and short-answer grading require a supported third-party provider and your own API key. Supported providers currently include OpenAI and Anthropic.
 
-These terms may be updated as Lecture Studio evolves. The effective date will be revised when changes are published. Material payment or Lecture Studio+ terms should be presented before a paid feature is purchased.
+Study generation may send your transcript and selected notes or attached files to the provider. Short-answer grading may send relevant questions, model answers, and your submitted responses. Review the in-app disclosure before acknowledging a request.
 
-## 11. Contact
-
-See [SUPPORT.md](SUPPORT.md) for support and contact options.
+If you choose “Don’t show this again” for a provider disclosure, later requests covered
